@@ -12,12 +12,12 @@ public class Main {
           int berat = 60;
            
           //long:
-          long harga = 500;
+          long tahunlahir = 2007;
            
             System.out.println("umur : "+ umur +"tahun. ");
             System.out.println("tinggi : "+ tinggi+"cm. ");
             System.out.println("berat : "+ berat +"kg. ");
-            System.out.println("harga : "+ harga +"ribu. ");
+            System.out.println("tahunlahir : "+ tahunlahir );
             
         }
     
