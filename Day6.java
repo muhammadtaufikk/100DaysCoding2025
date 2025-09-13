@@ -7,8 +7,8 @@ public class Main {
   System.out.println("Harga Sepatu : " + hargaSepatu);
 
   //float untuk aplikasi yang membutuhkan efisiensi memori dan kinerja, seperti grafis.
-  float ukuranKaki = 42.5f;
-  System.out.println("Ukuran Kaki : " + ukuranKaki);
+  float ukuranSepatu = 42.5f;
+  System.out.println("Ukuran Sepatu : " + ukuranSepatu);
 
   }
 
