@@ -1,4 +1,4 @@
-package pkgday56oding;
+package pkgday6coding;
 public class Main {
   public static void main(String[] args) {
 
