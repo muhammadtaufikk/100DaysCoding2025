@@ -7,7 +7,7 @@ public class Day5coding {
         String nama = "Perkenalkan Nama Saya Muhammad Taufik";
         
         // Menampilkan isi String
-        System.out.println(salam);
+        System.out.println(ucapan);
         System.out.println(nama);
     }
 }
