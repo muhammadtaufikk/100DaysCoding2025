@@ -2,13 +2,14 @@ package day9coding;
 public class Day9coding {
     public static void main(String[] args) {
 
-// DEKLARASI VARIABEL
-    
+        /*MENDEKLARASIKAN
+        VARIABEL*/
         int usia;
         double tinggiBadan;
         float beratBadan;
         
-        // INISIALISASI VARIABEL
+        /*MENGINISIALISASI
+        VARIABEL*/
         usia = 17;
         tinggiBadan = 174.6;
         beratBadan = 55.6f;
