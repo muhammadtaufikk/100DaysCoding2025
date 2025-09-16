@@ -19,7 +19,8 @@ public class Day9coding {
         System.out.println("Tinggi Badan : " + tinggiBadan + "cm");
         System.out.println("Berat Badan : " + beratBadan + "kg");
         
-        // UPDATE VARIABEL
+        /*MENGUPDATE
+        VARIABEL*/
         usia = 18;
         tinggiBadan = 175.0;
         beratBadan = 60.0f;
