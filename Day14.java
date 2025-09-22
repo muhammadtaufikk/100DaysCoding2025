@@ -24,6 +24,7 @@ public class Day14coding {
         System.out.println("BIODATA MAHASISWA :");
         System.out.println("NAMA             : " + nama);
         System.out.println("TTL              : " + tLahir +","+ tanggal +"-"+ bulan +"-"+ tahun );
+        System.out.println("UMUR             : " + umur);
         System.out.println("TINGGI BADAN     : " + tinggi);
         System.out.println("BERAT BADAN      : " + berat);
         System.out.println("JENIS KELAMIN    : " + JK);
