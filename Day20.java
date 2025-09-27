@@ -6,7 +6,7 @@ public class Main {
         //menggunakan metode value of:
         short nilai =1000; 
         String teks = String.valueOf(nilai);
-        System.out.println(nilai);
+        System.out.println(teks);
         
         //menggunakan metode .toString:
         int angkaInt = 12345;
