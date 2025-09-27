@@ -2,23 +2,6 @@ package pkgday21coding;
 public class Main {
     public static void main(String[] args) {
                 
-        //Variabel sementara
-        int a = 1;
-        int b = 2;
-
-        System.out.println("Sebelum ditukar:");
-        System.out.println("a = " + a);
-        System.out.println("b = " + b);
-
-        //Menukar menggunakan variabel sementara
-        int temp = a;
-        a = b;
-        b = temp;
-
-        System.out.println("\nSetelah ditukar (dengan temp):");
-        System.out.println("a = " + a);
-        System.out.println("b = " + b);
-
         // Contoh tanpa variabel sementara
         int x = 7;
         int y = 8;
