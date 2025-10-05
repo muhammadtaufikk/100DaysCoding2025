@@ -1,0 +1,20 @@
+package day29coding;
+public class Day28Coding {
+
+    public static void main(String[] args) {
+
+        int a = 1;
+        int b = 2;
+
+        System.out.println("Membandingkan lebih besar angka ");
+        System.out.println("a > b : " + (a > b)); // false : karena nilai a lebih kecil dari b
+        System.out.println("b > a : " + (b > a)); // true  : karena nilai b lebih besar dari a
+        
+        System.out.println("\nMembandingkan kecil dari angka ");
+        System.out.println("a < b : " + (a < b)); // true  : karena nilai a lebih kecil dari b
+        System.out.println("b < a : " + (b < a)); // false : karena nilai b lebih besar dari a
+
+        
+    }
+    
+}
