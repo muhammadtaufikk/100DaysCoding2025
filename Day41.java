@@ -9,6 +9,7 @@ public class Evaluasi18Okt {
         int teori = l.nextInt();
         System.out.print("masukkan nilai praktik = ");
         int praktik = l.nextInt();
+        System.out.println("=========================");
         
         if (teori >= 90 && teori <= 100 && praktik >= 90 && praktik <= 100) {
             System.out.println("Predikat   = A");
