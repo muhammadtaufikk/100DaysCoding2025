@@ -10,7 +10,6 @@ public class Day65coding {
 
         long faktorial = 1;
 
-        // Perulangan untuk menghitung faktorial
         for (int i = 1; i <= n; i++) {
             faktorial *= i;
         }
