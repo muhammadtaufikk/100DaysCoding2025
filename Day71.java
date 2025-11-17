@@ -1,0 +1,17 @@
+package day71coding;
+import java.util.Scanner;
+public class Day71coding {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Masukkan tinggi segitiga: ");
+        int n = input.nextInt();
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+}
